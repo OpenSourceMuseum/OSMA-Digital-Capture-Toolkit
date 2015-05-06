@@ -3,6 +3,10 @@ This is the OSMA Digital Capture Toolkit
 
 ------
 
+The first module included in the OSMA Digital Capture Toolkit is the Human Ecosystems system. Go to http://www.human-ecosystems.com to know more.
+
+------
+
 The OSMA is the Open Source Museum of Abandonment created at Unidee @ Città dell'Arte (Fondazione Michelangelo Pistoletto) during the Ubiquitous Infoscapes workshop, in May 2015.
 
 It represents the first instance of a model for an Open Source Museum, in which ubiquitous forms of data, information, knowledge and expressions can be captured, archived and represented.
